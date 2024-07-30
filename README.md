@@ -1,5 +1,5 @@
 # OfCORS
-This is a python tool that specially written to test for CORS misconfigurations. In bug bounties we mostly deal with 100s or 1000s of domains to test and this tools is specially designed for that. This tool can test a single domain as well as multiple domains for CORS based misconfigurations.
+This tool is specially designed to test for CORS misconfigurations. In bug bounties, we typically deal with hundreds or thousands of domains to test, and this tool is well-suited for that task. It can test a single domain as well as multiple domains for CORS-based misconfigurations.
 
 ## Help
 Using this tool is very straight forward. There are only two options:
